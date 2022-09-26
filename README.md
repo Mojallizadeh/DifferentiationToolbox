@@ -1,3 +1,5 @@
+This toolbox can be used to evaluate and compare the performances of 25 different differentiators available in the literature. It can also be used to tune the parameters of the differentiators.
+
 The toolbox is briefly introduced in Appendix E of [1]. If you use the toolbox in your works, please cite [1], [2], [3] and [4] in your publications, and mention that this differentiation toolbox was developed by Mohammad Rasool Mojallizadeh during the DIGITSLID project conducted at INRIA [1].
 
 The codes are provided under GNU GENERAL PUBLIC LICENSE.
