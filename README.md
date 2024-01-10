@@ -8,9 +8,9 @@ The codes are provided under GNU GENERAL PUBLIC LICENSE.
 
 [2] Mojallizadeh, MR, Brogliato, B, Acary, V. “Time-discretizations of differentiators: Design of implicit algorithms and comparative analysis,“ Int J Robust Nonlinear Control. 2021; 31: 7679– 7723. doi:10.1002/rnc.5710
 
-[3] Mojallizadeh, MR, Brogliato, B, Polyakov, A, Selvarajan, S, Michel, L, Plestan, Fm Ghanes, M, Barbot, J, Aoustin, Y. “A survey on the discrete-time differentiators in closed-loop control systems: experiments on electro-pneumatic system and rotary inverted pendulum,“ Control Engineering Practice. To be appear.
+[3] M. R. Mojallizadeh, B. Brogliato, A. Polyakov, S. Selvarajan, L. Michel, F. Plestan, M. Ghanes, J.-P. Barbot, Y. Aoustin, A survey on the discrete-time differentiators in closed-loop control systems: Experiments on an electro-pneumatic system, Control Engineering Practice 136 (2023) 105546.
 
-[4] M. R. Mojallizadeh, B. Brogliato, Effect of the Euler explicit and implicit time-discretizations on the variable structure differentiators, VSS book chapter. To be appear.
+[4] Mojallizadeh, Mohammad Rasool, and Bernard Brogliato. "Effect of Euler Explicit and Implicit Time Discretizations on Variable-Structure Differentiators." Sliding-Mode Control and Variable-Structure Systems: The State of the Art. Cham: Springer International Publishing, 2023. 165-180.
 
 
 Developed by Mohammad Rasool Mojallizadeh at INRIA, France
