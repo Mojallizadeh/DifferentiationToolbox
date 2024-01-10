@@ -14,7 +14,7 @@ The codes are provided under GNU GENERAL PUBLIC LICENSE.
 
 
 Developed by Mohammad Rasool Mojallizadeh at INRIA, France
-Email: mohammad-rasool.mojallizadeh@inria.fr
+Email: r@mojalli.com
 
 If you use this toolbox please cite the following report:
 
